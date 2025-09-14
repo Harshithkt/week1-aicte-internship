@@ -1,2 +1,2 @@
-# week2-aicte-internship
-Internship week one submission
+# week3-final-project-submission-aicte-internship
+Internship week three submission
